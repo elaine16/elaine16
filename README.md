@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil no Github! 👋
 
-Sou casada e tenho dois filhos.Amo muito minha família!
+Sou casada e tenho dois filhos.Amo muito minha família!\n
 Nasci no interior de Minas Gerais e me mudei ainda na infância para a região metropolitana de Belo Horizonte, onde vivo até hoje.Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo. Atualmente curso Engenharia de Computação no CEFET-MG e estudo para me tornar uma desenvolvedora, tenho me empenhado em fazer Bootcamps na Dio (Digital Innovation One) para me qualificar e conseguir uma vaga na área de desenvolvimento.
 
 
